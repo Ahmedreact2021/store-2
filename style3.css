@@ -1,0 +1,103 @@
+
+
+.textorange {
+
+	FONT-FAMILY: Tahoma;
+
+	font-size: 12px;
+
+	color:#DB8E3B;
+
+	text-decoration:none;
+
+	font-weight: bold;
+
+	font-style: normal;
+
+	font-variant: normal;
+
+}
+
+.bordertable{border-left:ridge;border-right:ridge;border-color:#CC0000;border-top:none;border-bottom:none;border-width:12px;}
+
+.textheader {
+
+	FONT-FAMILY: Tahoma;
+
+	font-size: 12px;
+
+	color:#187EA6;
+
+	text-decoration:none;
+
+	font-weight: bold;
+
+	font-style: normal;
+
+	font-variant: normal;
+
+}
+
+
+
+.textsite {
+
+	FONT-FAMILY: Tahoma; FONT-SIZE: 12px;color:#187EA6;
+
+	text-decoration:none;
+
+}
+
+.textblack{
+
+	FONT-FAMILY: Tahoma; FONT-SIZE: 12px;color:#000000;
+
+	text-decoration:none;
+
+}
+
+.textwhite{
+
+	FONT-FAMILY: Tahoma; FONT-SIZE: 12px;color:#ffffff;
+
+	text-decoration:none;
+
+}
+
+.textred{
+
+	FONT-FAMILY: Tahoma; FONT-SIZE: 12px;color:#C0384B;
+
+	text-decoration:none;
+
+}
+
+.textgreen{
+
+	FONT-FAMILY: Tahoma; FONT-SIZE: 12px;color:#339900;
+
+	text-decoration:none;
+
+}
+
+.textblue{
+
+	FONT-FAMILY: Tahoma;font-size: 12px;color: #61B1D2;
+
+	text-decoration:none;
+
+}
+
+.sizeadv180_90{width:180px;height:90px;}
+.sizeadv728_90{width:728px;height:90px;}
+.sizeadv200_200{width:200px;height:200px;}
+.sizeadv250_250{width:250px;height:250px;}
+.sizeadv468_60{width:468px;height:60px;}
+.sizeadv600_160{width:160px;height:600px;}
+
+
+.border_red{border-color:#C0384B; border-style:solid; border-width:1}
+
+.border_site{border-color:#187EA6; border-style:solid; border-width:1}
+
+.border_black{border-color:#7A7A7A; border-style:solid; border-width:1}
